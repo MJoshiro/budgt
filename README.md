@@ -32,7 +32,6 @@ npm run dev
 ```
 ├── gemini.md              # Project Map (B.L.A.S.T.)
 ├── architecture/          # SOPs and integration plans
-├── tools/                 # Deterministic scripts
 ├── .tmp/                  # Temporary workbench
 ├── .env.example           # Environment variable template
 └── src/
